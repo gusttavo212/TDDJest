@@ -1,0 +1,12 @@
+{
+  "name": "TDDJest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gusttavo212/TDDJest.git",
+  "author": "gusttavo212 <gusttavo212@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.14.1",
+    "global": "^4.3.2"
+  }
+}
